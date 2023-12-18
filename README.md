@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/B1uacAC/MyBlog/blob/main/img/hacker_a.gif?raw=true.gif" width="40%">
+  <img src="https://github.com/B1uacAC/MyBlog/blob/main/img/hacker_a.gif" width="40%">
 </div>
 
 ---
