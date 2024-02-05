@@ -14,6 +14,7 @@
 #### 🚀 Interested in
 
 - Computer Vision
+- Medical Image Computing
 - Reinforcement Learning
 - Optimization Problem
 
